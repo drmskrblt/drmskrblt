@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since January 2023<br>📚 I'm currently learning TypeScript<br>🎯 Goals: Getting into IT<br>🎲 Fun fact: ...</p>
+<p align="left">
+  ✨ Creating bugs since January 2023<br>
+  📚 I'm currently learning TypeScript<br>
+  🎯 Goals: Equipped with newfound knowledge and eager to advance my career, I am ready to take a significant step forward by applying my skills and expertise in a new and challenging environment.<br>
+  🎲 Fun fact: Google is my best friend</p>
 
 ###
 
